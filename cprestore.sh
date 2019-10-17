@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 # By arshatech.com
-# You can easyly restore your cPanel backups by cprestore.sh script.
+# You can easily restore your cPanel backups by cprestore.sh script.
 
 colors () {
 	green='\033[1;32m'
